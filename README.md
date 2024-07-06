@@ -2,7 +2,7 @@
 Este código es un ejemplo de cómo controlar un LED RGB mediante una conexión Bluetooth utilizando el módulo gpiozero, bluedot y la librería de Python time.
 
 ## Requisitos
-- Raspberry Pi con conexión a internet
+- Raspberry Pi con conexión a Bluetooth
 - LED RGB conectado a los pines GPIO 27 (rojo), 17 (verde) y 22 (azul)
 - Dispositivo móvil con sistema operativo Android y la aplicación [MIT App Inventor Bluetooth Client](https://gallery.appinventor.mit.edu/?galleryid=7f10877f-c4ae-490e-91d0-147fe4064b90) instalada
 ## Instalación
